@@ -1,0 +1,26 @@
+
+Name : /^[A-Za-z .]/
+
+Email : /^[a-zA-Z0-9._-]{3,}@[a-zA-Z._]{3,}[.][a-zA-Z._]{2,}/
+
+            abhinavsingh153@gmail.com
+            abhinav@gmail.com
+            abhi.singh13534@gmail.com
+            alex@gmail.us
+            CCS.10.89_@gmail.com.us
+            Alex_jhonny@yahoo.my.c
+
+Website: /(https:|http:|ftp:)\/\/+[a-zA-z0-9.\-\/\$\#\~_?=&!]+\.[a-zA-z0-9.\-\/\$\#\~_?=&!:]*/
+
+            https://www.example.com
+            http://www.example.com
+            http://blog.example.com
+            http://www.example.com/product
+            http://www.example.com/products?id=1&page=2
+            http://www.example.com#up
+            http://255.255.255.255.255.255.255.255
+            http://web-site.com/cgi-bin/perl.cgi?key1=value1&key2
+            http://www.site.com:8008
+            http://www.site.com:8008
+
+        
